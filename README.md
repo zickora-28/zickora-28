@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**zickora-28/zickora-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm zickora-28 👋
 
-Here are some ideas to get you started:
+I am a Developer based in Nigeria transitioning into **AI Governance Research**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Research Interests
+- **Privacy-Preserving AI:** Developing predictive models that avoid invasive surveillance.
+- **Global Equity:** Ensuring AI safety frameworks are inclusive of emerging tech ecosystems in Africa.
+- **Technical Governance:** Auditing algorithmic resource allocation for fairness.
+
+### 🚀 Current Project
+**[Predictive Occupancy Framework]**
+I am currently developing a research proposal on using metadata-driven AI to manage public study spaces (like libraries) without using cameras. This project explores the trade-off between technical utility and user privacy.
+
+### 🛠️ Technical Stack
+- **Languages:** Python (Pandas, Scikit-learn), SQL
+- **Focus:** Machine Learning, Data Privacy, Technical Writing
